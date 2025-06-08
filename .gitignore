@@ -1,0 +1,41 @@
+# macOS system files
+.DS_Store
+
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# VS Code settings
+.vscode/
+.settings/
+
+# Data and results cache (optional)
+*.sqlite3
+*.db
+*.h5
+*.hdf5
+*.parquet
+*.feather
+*.csv~
+*.log
+
+# Environment files
+.env
+.venv/
+venv/
+env/
+ENV/
+Pipfile.lock
+
+# OS junk files
+Thumbs.db
+.DS_Store
+
+# Ignore generated figures if you want
+# figure/
