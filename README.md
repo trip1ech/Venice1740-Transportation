@@ -2,19 +2,6 @@
 
 This repository contains code and data for the analysis of multimodal (walking + traghetto/ferry) transportation in 18th-century Venice, using historical parish and property data from the 1740s. The main analysis implements traffic assignment models to understand cross-canal connectivity, demand, and economic implications of the traghetti network.
 
-## Folder Structure
-
-Venice1740-Transportation/
-│
-├── rawdata/
-│   ├── 1740_redrawn_parishes_cleaned_wikidata_standardised.geojson
-│   ├── catastici_1740_full_geojson_20240917.geojson
-│   ├── catastici_1740.csv
-│   └── venice1740_parishes_processed.geojson
-│
-├── reprot.pdf           # Project Report
-├── TAP-analysis.ipynb   # Main Jupyter notebook for analysis
-└── README.md            # This file
 
 ### Data files (in `rawdata/`)
 
